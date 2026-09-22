@@ -32,7 +32,7 @@ I am a second-year Software Engineering student focused on Java backend developm
 
 ## Selected Projects (Second Year)
 
-**[Student Academic Management System](link-to-repo)** | *Java, Java Collections Framework*  
+**[Student Academic Management System](https://github.com/GRJuniorselemela-se/student-academic-management-system)** | *Java, Java Collections Framework*  
 An advanced in-memory academic management system built using the Java Collections Framework (no database). Supports fast student retrieval by ID, course enrollment management, duplicate prevention, sorting, filtering, and report generation. Designed with a strong focus on data integrity, efficiency, and scalability.
 
 **[Train Ticket Reservation System](link-to-repo)** | *Java, GUI, Java Collections, Relational Database*  
