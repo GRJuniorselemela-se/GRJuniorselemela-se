@@ -35,7 +35,7 @@ I am a second-year Software Engineering student focused on Java backend developm
 **[Student Academic Management System](https://github.com/GRJuniorselemela-se/student-academic-management-system)** | *Java, Java Collections Framework*  
 An advanced in-memory academic management system built using the Java Collections Framework (no database). Supports fast student retrieval by ID, course enrollment management, duplicate prevention, sorting, filtering, and report generation. Designed with a strong focus on data integrity, efficiency, and scalability.
 
-**[Train Ticket Reservation System](link-to-repo)** | *Java, GUI, Java Collections, Relational Database*  
+**[Train Ticket Reservation System](https://github.com/GRJuniorselemela-se/train-ticket-reservation-system)** | *Java, GUI, Java Collections, Relational Database*  
 A multi-stage Java desktop application for booking train tickets. Allows users to view destinations, enter travel information, validate inputs, and calculate ticket prices based on destination and ticket class (Economy/Business). Uses Java Collections and a user-friendly GUI, with full relational database integration for persistent storage.
 
 **[Staff Information Management System](link-to-repo)** | *Java, XML, SAX Parser*  
