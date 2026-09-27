@@ -38,7 +38,7 @@ An advanced in-memory academic management system built using the Java Collection
 **[Train Ticket Reservation System](https://github.com/GRJuniorselemela-se/train-ticket-reservation-system)** | *Java, GUI, Java Collections, Relational Database*  
 A multi-stage Java desktop application for booking train tickets. Allows users to view destinations, enter travel information, validate inputs, and calculate ticket prices based on destination and ticket class (Economy/Business). Uses Java Collections and a user-friendly GUI, with full relational database integration for persistent storage.
 
-**[Staff Information Management System](link-to-repo)** | *Java, XML, SAX Parser*  
+**[Staff Information Management System](https://github.com/GRJuniorselemela-se/staff-information-management-system)** | *Java, XML, SAX Parser*  
 A lightweight, platform-independent system that stores employee records in XML format. Implemented a Java-based SAX parser to efficiently read and display employee data without loading the entire XML file into memory, with proper error handling and structured data extraction.
 
 **[Android Utility Applications](link-to-repo)** | *Android Studio, Java, SQLite*  
