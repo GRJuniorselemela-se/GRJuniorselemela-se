@@ -44,7 +44,7 @@ A lightweight, platform-independent system that stores employee records in XML f
 **Android Utility Applications** | *Android Studio, Java, SQLite*  
 Two practical Android applications:
 
-- **[Energy Consumption Tracker](link-to-repo)** – Records household appliances, calculates daily/monthly electricity consumption and estimated bills, and stores reports using SQLite.
+- **[Energy Consumption Tracker](https://github.com/GRJuniorselemela-se/energy-consumption-tracker)** – Records household appliances, calculates daily/monthly electricity consumption and estimated bills, and stores reports using SQLite.
 - **[Transport Cost Comparator](link-to-repo)** – Calculates daily and monthly transport costs using mode of transport, distance, cost per kilometre, and DatePicker-selected travel days. Includes splash screen, Action Bar navigation, audio playback, and SQLite storage.
 
 **[Enterprise Network Design – BrightSoft Solutions](link-to-repo)** | *Cisco Packet Tracer*  
