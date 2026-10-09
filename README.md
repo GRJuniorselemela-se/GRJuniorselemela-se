@@ -41,11 +41,11 @@ A multi-stage Java desktop application for booking train tickets. Allows users t
 **[Staff Information Management System](https://github.com/GRJuniorselemela-se/staff-information-management-system)** | *Java, XML, SAX Parser*  
 A lightweight, platform-independent system that stores employee records in XML format. Implemented a Java-based SAX parser to efficiently read and display employee data without loading the entire XML file into memory, with proper error handling and structured data extraction.
 
-**[Android Utility Applications](link-to-repo)** | *Android Studio, Java, SQLite*  
+**Android Utility Applications** | *Android Studio, Java, SQLite*  
 Two practical Android applications:
 
-- **Energy Consumption Tracker** – Records household appliances, calculates daily/monthly electricity consumption and estimated bills, and stores reports using SQLite.
-- **Transport Cost Comparator** – Calculates daily and monthly transport costs using mode of transport, distance, cost per kilometre, and DatePicker-selected travel days. Includes splash screen, Action Bar navigation, audio playback, and SQLite storage.
+- **[Energy Consumption Tracker](link-to-repo)** – Records household appliances, calculates daily/monthly electricity consumption and estimated bills, and stores reports using SQLite.
+- **[Transport Cost Comparator](link-to-repo)** – Calculates daily and monthly transport costs using mode of transport, distance, cost per kilometre, and DatePicker-selected travel days. Includes splash screen, Action Bar navigation, audio playback, and SQLite storage.
 
 **[Enterprise Network Design – BrightSoft Solutions](link-to-repo)** | *Cisco Packet Tracer*  
 Designed and configured a multi-floor enterprise network spanning three floors with segmented teams. Implemented VLANs, inter-VLAN routing, RIPv2, and OSPF.  
